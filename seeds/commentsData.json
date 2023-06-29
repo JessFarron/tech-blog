@@ -1,0 +1,17 @@
+[
+    {
+        "comment_text": "Great post!",
+        "user_id": 2,
+        "post_id": 1
+    },
+    {
+        "comment_text": "Nice to meet you!",
+        "user_id": 1,
+        "post_id": 1
+    },
+    {
+        "comment_text": "Looking forward to reading more of your posts.",
+        "user_id": 1,
+        "post_id": 1
+    }
+]

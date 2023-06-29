@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Hello World",
+        "content": "Welcome to my blog!",
+        "user_id": 1
+    },
+    {
+        "title": "New Adventure",
+        "content": "Today I started a new journey.",
+        "user_id": 1
+    },
+    {
+        "title": "First Post",
+        "content": "This is my first post on this platform.",
+        "user_id": 2
+    }
+]
